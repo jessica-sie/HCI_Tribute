@@ -1,9 +1,8 @@
 # tribute webpage for HCI class
-code : mario.html
-/n
-storyboard: Miyamoto.pdf
+# code : mario.html
+
+# storyboard: Miyamoto.pdf
 
 
 # contributors:
-# - rachel
-# - jessica
+rachel, jessica
